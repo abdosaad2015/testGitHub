@@ -7,6 +7,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //HELLO FOUAD
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
